@@ -1,0 +1,1 @@
+python handle_json_word.py -i ./shell_params/origindata_like_map -o ./shell_params/saved_data -p class_id,create_time

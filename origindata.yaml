@@ -1,0 +1,21 @@
+douyin_scene_binary_classification_10w_test_title: # 标题
+  assign_count: 1
+  auditor: liweijian
+  data_file: /home/wangluya/origindata/送标/save_origin.json # 整理好的json文件位置
+  enabled: true
+  jimu_id: 1cbaad2b118d9b4b # 使用的标注模版。可以后期在GUI改
+  mode: 2
+  pm: liweijian
+  product_tags:
+  - common_annotation
+  product_type: huoshan_labeling
+  project_id: # 一开始不需要指定，会自动生成。如果数据上传中断，需要续传数据时需要指定
+  project_tags:
+  - common_annotation
+  pusher: wangluya
+  receiver: wangluya
+  sample_ratio: 0.05 # 在标注过程中，每天会抽取5%的数据进行质检。
+  tags:
+  - huoshan_labeling
+  timeout: null
+  title: douyin_scene_binary_classification_10w_test # 标题
