@@ -43,3 +43,4 @@ def zero():
 if __name__ == '__main__':
     # redis_nil()
     zero()
+    #main
